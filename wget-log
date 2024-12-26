@@ -1,0 +1,12 @@
+ https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key⁩: Scheme missing.
+--2024-12-21 19:10:03--  http://echo/
+Resolving echo (echo)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘echo’
+Warning: wildcards not supported in HTTP.
+--2024-12-21 19:10:03--  http://deb%20%5Bsigned-by=/usr/share/keyrings/jenkins-keyring.asc]
+Resolving deb [signed-by= (deb [signed-by=)... failed: Name or service not known.
+wget: unable to resolve host address ‘deb [signed-by=’
+ https://pkg.jenkins.io/debian-stable⁩: Scheme missing.
+--2024-12-21 19:10:03--  http://binary/
+Resolving binary (binary)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address ‘binary’

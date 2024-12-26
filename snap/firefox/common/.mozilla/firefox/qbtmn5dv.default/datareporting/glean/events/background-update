@@ -1,0 +1,3 @@
+{"timestamp":207887,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control","glean_timestamp":"1735220700023","experiment":"extensions-migration-in-import-wizard-116-rollout"}}
+{"timestamp":210196,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1735220702332","feature":"addAnImageInPDF"}}
+{"timestamp":252584,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","glean_timestamp":"1735220744720","feature":"addAnImageInPDF","reason":"invalid-feature"}}

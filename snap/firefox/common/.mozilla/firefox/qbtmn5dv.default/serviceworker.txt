@@ -1,0 +1,13 @@
+9
+^partitionKey=%28https%2Ccodefresh.io%29
+https://www.googletagmanager.com/static/service_worker
+https://www.googletagmanager.com/static/service_worker/4cc0/sw.js?origin=https%3A%2F%2Fcodefresh.io
+false
+{adac2787-55e3-4f77-8fa1-258f88fc8d53}
+1
+1734808089121528
+1734808089123306
+1734808089099783
+0
+true
+#
